@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently a 4th-year student majoring in Industrial Information Systems Engineering at Seoul National University of Science and Technology.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+E-mail: chlehgkd@gmail.com
 
